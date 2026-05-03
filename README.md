@@ -2,8 +2,7 @@
 
 A real-time frontend-only satellite tracking CLI powered by CelesTrak TLE data and SGP4 propagation. Built to provide live orbital monitoring, pass predictions, and satellite querying directly from the terminal.
 
-[Try it out](www.sentinel.harmenachterhuis.com/console)
-
+<a href="https://sentinel.harmenachterhuis.com/console" onclick="window.open('https://sentinel.harmenachterhuis.com/console', '_self');">Try it out</a>
 ---
 
 # What is it?
